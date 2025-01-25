@@ -1,6 +1,6 @@
 # Newton-Raphson x Extended Euclidean Algorithm
 
-<img align="right" width="128px" src="./.media/math.png">
+<img align="right" width="100px" src="./.media/math.png">
 
 ![Version Badge](https://img.shields.io/badge/status-in%20development-red)
 
@@ -32,4 +32,4 @@ $ ./build.sh
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licence/MIT). Fell free to use, modify, and distribute the code as needed. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the [MIT License](https://opensource.org/license/MIT). Fell free to use, modify, and distribute the code as needed. See the [LICENSE](LICENSE) file for more information.

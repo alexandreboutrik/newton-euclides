@@ -1,6 +1,6 @@
 # Newton-Raphson x Euclides Estendido
 
-<img align="right" width="128px" src="./.media/math.png">
+<img align="right" width="100px" src="./.media/math.png">
 
 ![Version Badge](https://img.shields.io/badge/status-in%20development-red)
 
