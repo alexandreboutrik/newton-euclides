@@ -4,7 +4,7 @@
 
 ![Version Badge](https://img.shields.io/badge/status-in%20development-red)
 
-This repository contains the implementations presented in the study article `Cryptography: Newton-Raphson and Extended Euclid, A Comparative Study`. The study aims to evaluate the effectiveness of the Extended Euclidean Algorithm (EEA) compared to the Newton-Raphson (NR) method. To achieve this, benchmarks were performed using a (highly) simplified RSA implementation as a pratical example. The article was developed as the final project for the Numerical Calculus course at UTFPR-TD.
+This repository contains the implementations presented in the study article `Numerical Methods in Cryptography: Newton-Raphson vs. RSA`. The study aims to evaluate the effectiveness of the Extended Euclidean Algorithm (EEA) compared to the Newton-Raphson (NR) method. To achieve this, benchmarks were performed using a (highly) simplified RSA implementation as a pratical example. The article was developed as the final project for the Numerical Calculus course at UTFPR-TD.
 
 ## Development status
 
